@@ -2,7 +2,7 @@
 
 
 ### 🌱 I'm a Computer Science student at Bar Ilan university
-<img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="barkatash" />
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
 ---
 
