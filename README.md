@@ -1,7 +1,7 @@
-### Hi there, I'm Bar 👋 
+# Hi there, I'm Bar 👋 
 
 
-## 🌱 I'm a Computer Science Science at Bar Ilan university!!
+### 🌱 I'm a Computer Science Science at Bar Ilan university!!
 
 
 ### Languages and Tools:
