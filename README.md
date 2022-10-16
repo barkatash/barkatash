@@ -1,7 +1,8 @@
 # Hi there, I'm Bar 👋 
 
 
-### 🌱 I'm a Computer Science Science at Bar Ilan university!!
+### 🌱 I'm a Computer Science Science at Bar Ilan university
+![visitors](https://github.com/barkatash/badge?page_id=page.id)
 
 ---
 ### Languages and Tools:
