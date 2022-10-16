@@ -2,7 +2,7 @@
 
 
 ### 🌱 I'm a Computer Science Science at Bar Ilan university
-![visitors](https://github.com/barkatash/badge?page_id=page.id)
+![visitors](https://github.com/badge?page_id=barkatash)
 
 ---
 ### Languages and Tools:
