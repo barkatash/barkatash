@@ -2,7 +2,7 @@
 
 
 ### 🌱 I'm a Computer Science Science at Bar Ilan university
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/barkatash/count.svg)
 
 ---
 ### Languages and Tools:
