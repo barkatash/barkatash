@@ -1,6 +1,5 @@
 ### Hi there 👋, I’m Bar 
 
-![Visitor Count](https://profile-counter.glitch.me/{barkatash}/count.svg)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 - 🌱 I’m currently learning Computer Science at Bar Ilan University
