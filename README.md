@@ -1,7 +1,7 @@
 # Hi there, I'm Bar 👋 
 
 
-### 🌱 I'm a Computer Science student at Bar Ilan university
+### I'm a Computer Science student at Bar Ilan university
 ![GitHub Views](https://komarev.com/ghpvc/?username=barkatash&color=FAC151)
 
 ---
